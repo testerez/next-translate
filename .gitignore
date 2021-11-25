@@ -16,6 +16,8 @@
 !.husky
 !.husky/*
 !.prettierignore
+!lib
+!lib/**/*
 
 # dependencies
 /node_modules
